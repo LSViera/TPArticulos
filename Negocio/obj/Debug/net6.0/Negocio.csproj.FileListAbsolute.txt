@@ -1,0 +1,15 @@
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\bin\Debug\net6.0\Negocio.deps.json
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\bin\Debug\net6.0\Negocio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\bin\Debug\net6.0\Negocio.pdb
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\bin\Debug\net6.0\Dominio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\Negocio.pdb
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\TP_Final2\TPFinalNivel2_Viera\Negocio\obj\Debug\net6.0\ref\Negocio.dll

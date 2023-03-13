@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiEDWDVUrV2XhtDWSbxVxMfIPgEwpnc2n+7Vtee2pVZMH6BzOWTFBbppimWB5yEnU8eKv0UoJA/T52aT9PfdrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lviera\\OneDrive - Biogenesis Bago S.A\\Escritorio\\C# Nivel2\\TP_Final2\\TPFinalNivel2_Viera\\ClassLibrary1\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lviera\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\lviera\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\lviera\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\lviera\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
